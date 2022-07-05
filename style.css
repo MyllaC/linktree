@@ -11,8 +11,6 @@ a {
 body {
   background: #edf2ff;
   font-family: 'Roboto', sans-serif;
-
-  overflow: hidden;
 }
 
 .container {
@@ -35,17 +33,12 @@ img.avatar {
 }
 
 h1 {
-  font-size: 32px;
-  color: #00082f;
-  margin-top: 0.5rem;
-}
-
-.username {
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
-  color: #00082f;
+  color: #6b3d70;
   opacity: 0.8;
-  font-size: 18px;
+
+  font-size: 32px;
 }
 
 ul {
@@ -59,7 +52,7 @@ ul li a {
   align-items: center;
   justify-content: center;
 
-  background: #9a9ce9; /* hex: 0 - F */
+  background: #9a9ce9;
   color: white;
   text-transform: uppercase;
   font-size: 14px;
