@@ -1,4 +1,4 @@
-# linktree
+# 💜 linktree
 
 ![image](https://user-images.githubusercontent.com/92322675/177565095-42dbf5af-b16c-4fc9-8b21-b041c30a1eac.png)
 
